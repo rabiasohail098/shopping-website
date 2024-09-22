@@ -13,10 +13,10 @@ HOME
 CATEGORIES
 </Link>
 <Link className="navbar_link relative" href="#">
-MEN'S
+MENS
 </Link>
 <Link className="navbar_link relative" href="#">
-WOMEN'S
+WOMENS
 </Link>
 <Link className="navbar_link relative" href="#">
 JEWELRY
@@ -31,7 +31,7 @@ BLOG
 HOT OFFERS
 </Link>
 <Link className="navbar_link relative" href="#">
-CHILD'S OUTFITS
+CHILDS OUTFITS
 </Link>
 
             </div>
